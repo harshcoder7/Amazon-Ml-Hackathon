@@ -1,4 +1,5 @@
-# Amazon-Ml-Hackathon
+# Amazon-Ml-Hackathon-- Was under Top 250 teams among total 25000 teams
+
 We built a model to extract numeric values and units from 130,000 product images. Using PaddleOCR for text extraction and regex for post-processing, we standardized values like weight and volume. This solution is vital for improving product details in fields like e-commerce.
 
 In this hackathon, we built a machine learning model to extract entity values from product images, with a dataset containing 130,000 rows. This task is essential for sectors like healthcare, e-commerce, and content moderation, where extracting key details (e.g., weight, volume, voltage) from images is crucial for product descriptions in digital stores.
